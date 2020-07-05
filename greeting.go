@@ -2,5 +2,5 @@ package modulea
 
 // GoodMorning ...
 func GoodMorning() string {
-	return "Good Morning!!!"
+	return "Good Morning !!!"
 }
